@@ -1,2 +1,2 @@
 # xbee-net
-API for DIGI XBEE communication in VB.NET 
+API (written in VB.NET) for communicating with the XBEE SX radio from DIGI International Inc.
